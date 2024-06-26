@@ -14,13 +14,13 @@ const MainPage = () => {
         <div className={mainPageStyles.secondDivContentOne}>
           <div className={mainPageStyles.secondDivContentOneSubDivOne}>
             <h2 className={mainPageStyles.secondDivFirstHeading}>
-              The world’s first and only natural proprietary, patent-pending
-              formula, that when combined with coffee, can increase both the
-              speed and efficiency of metabolism.
+              The world’s first and only comprehensive nutritional formula
+              designed to dramatically improve deep sleep, fat-burning and
+              metabolism while turning back the clock in every way possible.
             </h2>
             <h2 className={mainPageStyles.secondDivSecondHeading}>
-              While instantly boosting your health, energy and well-being at the
-              same time.
+              Just take Renew before bed and let your body naturally do the rest
+              while you sleep like a baby.
             </h2>
           </div>
           <div className={mainPageStyles.secondDivContentOneSubDivTwo}>
